@@ -1,0 +1,21 @@
+body{
+
+
+
+
+
+
+}
+
+form{
+    margin-left: 12%;
+}
+
+form input{
+height: 40px;
+    width: 200px;
+}
+
+input[type="button"]{
+    margin-top: 400px;
+}

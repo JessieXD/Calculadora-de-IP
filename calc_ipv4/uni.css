@@ -1,0 +1,28 @@
+#moon{
+
+    color: salmon;
+    font-size: larger;
+    font-family: Courier;
+}
+
+#star{
+    border-color: coral;
+
+
+}
+#constellation{
+
+    color: lavenderblush;
+    background-color:salmon ;
+}
+
+#sugar{
+    background-color: lavender;
+}
+
+#bee{
+
+    border-style: dotted;
+   height: 5px;
+
+}
