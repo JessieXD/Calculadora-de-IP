@@ -1,0 +1,43 @@
+#moon{
+
+    color: salmon;
+    font-size: larger;
+    font-family: Courier;
+}
+
+#star{
+    border-color: coral;
+
+
+}
+#constellation{
+
+    color: lavenderblush;
+    background-color:salmon ;
+    background-image: url("public_html/Calculadora-de-IP-master/calc_ipv4/uni.gif");
+}
+
+#sugar{
+    background-color: lavender;
+}
+
+#bee{
+
+    border-style: dotted;
+    height: 25px;
+    width: 450px;
+    text-align: center;
+}
+#okoye{
+
+             width: 100vw;
+             height: 100vh;
+             display: flex;
+             flex-direction: row;
+             justify-content: center;
+             align-items: center
+}
+#ramonda{
+
+    display: table-cell;
+}
